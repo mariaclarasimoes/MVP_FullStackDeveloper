@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles_empresa_cadastro.css">
+    
+    <title>Projeto</title>
+</head>
+
+<body>
+     <!-- Cabeçalho de informações do sistema -->
+    <header>
+        <div class="title">
+            <h2> CADASTRO DE EMPRESAS</h2>
+        </div>
+        <div class="banner">
+            <img src="imagem_back.jpg"
+                alt="y">
+        </div>
+    </header>
+
+     <!-- Opções para adicionar um novo item -->
+    <section class="newItem">
+        <input type="text" id="newInput" placeholder="Nome da empresa: ">
+        <input type="text" id="newTradingName" placeholder="Nome fantasia:">
+        <input type="text" id="newCnpj" placeholder="CNPJ:">
+        <input type="text" id="newContact" placeholder="Nome do responsável:">
+        <input type="text" id="newPhone" placeholder="Telefone:">
+        <input type="text" id="newEmail" placeholder="Email:">
+        <button onclick="newItem()" class="addBtn">Adicionar</button>
+    </section>
+
+    <!-- Tabela com items existentes -->
+    <section class="items">
+        <table id="myTable">
+            <tr>
+                <th>Nome da empresa</th>
+                <th>Nome fantasia</th>
+                <th>CNPJ</th>
+                <th>Responsável</th>
+                <th>Telefone</th>
+                <th>Email</th>
+                <th><img src="https://cdn-icons-png.flaticon.com/512/126/126468.png" width="15px" height="15px"></th>
+            
+            </tr>
+        </table>
+    </section>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
+
+
