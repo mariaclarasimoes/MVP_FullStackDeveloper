@@ -7,3 +7,7 @@ O objetivo é aplicar o conteúdo apresentado ao longo das três aulas da discip
 2) Banco de dados: Utilizar um banco de dados (SQLite, PostgreSQL ou MySQL) com, pelo menos, uma tabela.
 3) Front end: Desenvolvimento de uma SPA (Single Page Application) criativa e interativa.
 4) Documentação da API em Swagger.
+
+
+Link do meu vídeo no youtube sobre o funcionamento do projeto: https://youtu.be/VgB1o52G7GI
+Obs: É necessário assistir o vídeo "Instruções para execução da API do meu MVP PUC RIO" que se encontra na descrição do vídeo anterior.
