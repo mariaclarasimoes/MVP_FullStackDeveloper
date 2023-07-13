@@ -10,4 +10,5 @@ O objetivo é aplicar o conteúdo apresentado ao longo das três aulas da discip
 
 
 Link do meu vídeo no youtube sobre o funcionamento do projeto: https://youtu.be/VgB1o52G7GI
+
 Obs: É necessário assistir o vídeo "Instruções para execução da API do meu MVP PUC RIO" que se encontra na descrição do vídeo anterior.
